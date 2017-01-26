@@ -19,4 +19,7 @@ Lögunin á tölvukassanum og hversu mörg vött þarf í tölfuna.
 1)Identify the problem. 2)Establish a theory of probable cause.
 3)Test the theory to determine cause. 4)Act. 5)Test and prevent.
 6)Report.
+###7. Hver er munurinn á opinni og lokaðri spurningu?
+Opin spurning er spurning þar sem svarið er ekki já eða nei. Dæmi: Hvernig skjákort er í tölvuni þinni?
+Lokuð spurning er spurning þar sem svarið er já eða nei. Dæmi: Átt þú góða tölvu?
 
