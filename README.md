@@ -13,4 +13,6 @@ koma í veg fyrir bilun búnaðar.
 ESD er skammstöfun fyrir Electrostatic discharge.
 ESD er losun stöðurafmagns þegar tveir hlutir snertast.
 Til að verjast ESD getur maður sett á sig sérstagt "ESD wrist strap".
+###5. Hvað þarf að hafa í huga við val á spennugjöfum?
+Lögunin á tölvukassanum og hversu mörg vött þarf í tölfuna.
 
