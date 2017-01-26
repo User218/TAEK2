@@ -25,4 +25,6 @@ Lokuð spurning er spurning þar sem svarið er já eða nei. Dæmi: Átt þú góða tölvu
 ###8. Hvað eru jaðartæki?
 Jaðartæki eru þau tæki sem engin þörf er á til þess að tölvan geti virkað.
 Dæmi: Skannarar prentarar og hátalarar.
+###9. Nefndu þrjú dæmi um inntakstæki.
+Mús, lyklaborð og mic.
 
