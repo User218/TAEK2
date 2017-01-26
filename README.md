@@ -9,4 +9,8 @@ Skrár sem geymdar eru í ROM geta ekki verið breyttar heldur bara skoðaðar.
 ###3. Hvað er fyrirbyggjandi viðhald?
 Fyrirbyggjandi viðhald er sá gjörningur sem maður gerir til þess að
 koma í veg fyrir bilun búnaðar.
+###4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvað getum við gert til að koma í veg fyrir það?
+ESD er skammstöfun fyrir Electrostatic discharge.
+ESD er losun stöðurafmagns þegar tveir hlutir snertast.
+Til að verjast ESD getur maður sett á sig sérstagt "ESD wrist strap".
 
