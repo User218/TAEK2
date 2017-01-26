@@ -6,4 +6,7 @@ RAM er tímabundin geymsla fyrir gögn og forrit sem CPUið opnar.
 ###2. Fyrir hvað stendur skammstöfunin ROM? Útskýrðu:
 ROM er skammstöfunin fyrir Read-Only Memory.
 Skrár sem geymdar eru í ROM geta ekki verið breyttar heldur bara skoðaðar.
+###3. Hvað er fyrirbyggjandi viðhald?
+Fyrirbyggjandi viðhald er sá gjörningur sem maður gerir til þess að
+koma í veg fyrir bilun búnaðar.
 
