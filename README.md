@@ -36,4 +36,5 @@ Aflgjafi:-------Gigabyte Sumo Platinum 1000W----Tölvutek--------29.990kr.
 Skjákort:-------Geforce GTX 1070 8 GB-----------Computer--------66.900kr.		
 DDR4 RAM:-------16 GB (2x8 GB) 2666 MHz---------Tölvutækni------16.900kr.		
 Minni:----------1 TB SanDisk X400---------------Computer--------46.990kr.
+
 Samtals:--------------------------------------------------------247.391kr.
