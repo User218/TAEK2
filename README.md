@@ -27,4 +27,13 @@ Jaðartæki eru þau tæki sem engin þörf er á til þess að tölvan geti virkað.
 Dæmi: Skannarar prentarar og hátalarar.
 ###9. Nefndu þrjú dæmi um inntakstæki.
 Mús, lyklaborð og mic.
+###10. Gerðu töflu með tölvu íhlutum fyrir góða leikjatölvu sem á að kosta 250 þús eða minna.
 
+Kassi:			Cooler Master Silencio 550		Tölvulistinn	17.991kr.		
+Móðurborð:		Asus Maximus VIII Hero			Tölvutækni		29.900kr.		
+Aflgjafi:		Gigabyte Sumo Platinum 1000W	Tölvutek		29.990kr.		
+Örgjörfi:		Intel i5 7600k 3.8 ~ 4.2 GHz	Tölvutækni		38.900kr.		
+Skjákort:		Geforce GTX 1070 8 GB			Computer		66.900kr.		
+DDR4 RAM:		16 GB (2x8 GB) 2666 MHz			Tölvutækni		16.900kr.		
+Minni:			1 TB SanDisk X400				Computer		46.990kr.
+Samtals:													   247.391kr.
