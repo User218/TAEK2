@@ -22,4 +22,7 @@ Lögunin á tölvukassanum og hversu mörg vött þarf í tölfuna.
 ###7. Hver er munurinn á opinni og lokaðri spurningu?
 Opin spurning er spurning þar sem svarið er ekki já eða nei. Dæmi: Hvernig skjákort er í tölvuni þinni?
 Lokuð spurning er spurning þar sem svarið er já eða nei. Dæmi: Átt þú góða tölvu?
+###8. Hvað eru jaðartæki?
+Jaðartæki eru þau tæki sem engin þörf er á til þess að tölvan geti virkað.
+Dæmi: Skannarar prentarar og hátalarar.
 
